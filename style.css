@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-width: 400px;
+    background-color: #161616;
+    color: #fffdfd;
+}
+h1,h3 {
+margin-left: 4rem;
+}
+span {
+    color:aquamarine;
+}
+button{
+    margin-top: 10px;
+    margin-left: 4rem;
+    background-color: rgb(96, 224, 182);
+    color: white;
+    height: 50px;
+    width: 200px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+hr{
+    margin-top: 40px;
+}
+#cc , #cv{
+    cursor: pointer;
+    margin-left: 4rem;
+    margin-top: 1.5rem;
+    display: inline-block;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(68, 73, 77);
+    overflow: hidden;
+    text-align: center;
+    font-weight: bold;
+}
